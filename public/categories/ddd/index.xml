@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ddd on A Hugo website</title>
+    <link>/categories/ddd/</link>
+    <description>Recent content in Ddd on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ddd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>棱星物语</title>
+      <link>/2018/09/17/%E6%A3%B1%E6%98%9F%E7%89%A9%E8%AF%AD/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/17/%E6%A3%B1%E6%98%9F%E7%89%A9%E8%AF%AD/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
